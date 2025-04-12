@@ -94,14 +94,6 @@ span:hover {
   /* border: 1px solid green; */
 }
 
-.hero1,
-.hero2 {
-  /* border: 1px solid gray; */
-
-  /* padding: 100px;
-  box-sizing: border-box; */
-}
-
 .hero1 {
   width: 40%;
 }
@@ -551,14 +543,6 @@ span:hover {
   display: flex;
   justify-content: space-between;
   /* border: 1px solid green; */
-}
-
-.hero1,
-.hero2 {
-  /* border: 1px solid gray; */
-
-  /* padding: 100px;
-    box-sizing: border-box; */
 }
 
 .hero1 {
@@ -1016,14 +1000,6 @@ li {
     flex-direction: column-reverse;
     justify-content: space-between;
     margin-top: 40px;
-  }
-
-  .hero1,
-  .hero2 {
-    /* border: 1px solid gray; */
-
-    /* padding: 100px;
-    box-sizing: border-box; */
   }
 
   .hero1 {
